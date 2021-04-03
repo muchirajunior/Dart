@@ -13,6 +13,7 @@ void main(){
 }
 
 //using the => fut arrow to write a fuction, no use of {}  
+//its using interpolition too
 void sum(int a, int b) => print(" the sum of $a and $b is : ${a+b}");
 
 //after the => we write the return statement ommiting the return keyword
