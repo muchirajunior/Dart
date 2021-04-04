@@ -1,7 +1,7 @@
 /**
  * high order fuctions in dart
  * these are fuctions hat can take abother fuction as a parameter
- * or can return a fuction
+ * or can return a fuction using labda fuctions
  */
 
 void someBigFuction(var name, Function function) {
