@@ -15,4 +15,8 @@ void main(){
 
 
   print(details);
+
+  print("numbers : ${details['numbers']}");
+   
+ 
 }
